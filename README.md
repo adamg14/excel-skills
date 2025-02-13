@@ -4,7 +4,7 @@
 Chart visualisation of stationary sales.
 
 
-![Chart Visualisation](excel-chart.png)
+![Chart Visualisation](excel-charts.png)
 
 ### Data Cleaning
 Data Cleaning of imported raw data of US Presidents including formatting dates and trimming whitespace.
